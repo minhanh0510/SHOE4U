@@ -142,11 +142,11 @@
             <div class="terms-card-body">
                 <p>Khi sử dụng website, bạn <strong>KHÔNG ĐƯỢC</strong>:</p>
                 <ul>
-                    <li>❌ Đăng tải nội dung vi phạm pháp luật, khiêu dâm, bạo lực</li>
-                    <li>❌ Can thiệp, tấn công vào hệ thống máy chủ của Shoe4U</li>
-                    <li>❌ Sao chép, phân phối lại nội dung mà không có sự cho phép</li>
-                    <li>❌ Sử dụng thông tin người dùng khác cho mục đích xấu</li>
-                    <li>❌ Đặt hàng giả, cố tình hủy đơn nhiều lần</li>
+                    <li> Đăng tải nội dung vi phạm pháp luật, khiêu dâm, bạo lực</li>
+                    <li> Can thiệp, tấn công vào hệ thống máy chủ của Shoe4U</li>
+                    <li> Sao chép, phân phối lại nội dung mà không có sự cho phép</li>
+                    <li> Sử dụng thông tin người dùng khác cho mục đích xấu</li>
+                    <li> Đặt hàng giả, cố tình hủy đơn nhiều lần</li>
                 </ul>
             </div>
         </div>
@@ -211,3 +211,4 @@
         </div>
     </div>
 </div>
+

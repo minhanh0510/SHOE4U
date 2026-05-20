@@ -57,12 +57,12 @@
             <div class="privacy-card-body">
                 <p>Thông tin của bạn được sử dụng cho các mục đích sau:</p>
                 <ul>
-                    <li>✅ Xử lý đơn hàng và giao hàng</li>
-                    <li>✅ Xác thực tài khoản và bảo mật</li>
-                    <li>✅ Gửi thông báo về trạng thái đơn hàng</li>
-                    <li>✅ Cải thiện trải nghiệm người dùng và dịch vụ</li>
-                    <li>✅ Gửi khuyến mãi, ưu đãi (bạn có thể hủy đăng ký bất cứ lúc nào)</li>
-                    <li>✅ Ngăn chặn gian lận và hoạt động bất hợp pháp</li>
+                    <li> Xử lý đơn hàng và giao hàng</li>
+                    <li> Xác thực tài khoản và bảo mật</li>
+                    <li> Gửi thông báo về trạng thái đơn hàng</li>
+                    <li> Cải thiện trải nghiệm người dùng và dịch vụ</li>
+                    <li> Gửi khuyến mãi, ưu đãi (bạn có thể hủy đăng ký bất cứ lúc nào)</li>
+                    <li> Ngăn chặn gian lận và hoạt động bất hợp pháp</li>
                 </ul>
             </div>
         </div>
@@ -89,9 +89,9 @@
             <div class="privacy-card-body">
                 <p>Chúng tôi sử dụng cookie để:</p>
                 <ul>
-                    <li>🍪 Ghi nhớ đăng nhập và giỏ hàng</li>
-                    <li>🍪 Phân tích hành vi người dùng để cải thiện website</li>
-                    <li>🍪 Cá nhân hóa nội dung và quảng cáo</li>
+                    <li> Ghi nhớ đăng nhập và giỏ hàng</li>
+                    <li> Phân tích hành vi người dùng để cải thiện website</li>
+                    <li> Cá nhân hóa nội dung và quảng cáo</li>
                 </ul>
                 <p>Bạn có thể tắt cookie trong cài đặt trình duyệt, nhưng một số tính năng có thể không hoạt động.</p>
             </div>
@@ -104,10 +104,10 @@
             <div class="privacy-card-body">
                 <p>Chúng tôi áp dụng các biện pháp bảo mật tiên tiến:</p>
                 <ul>
-                    <li>🔒 Mã hóa SSL (HTTPS) cho mọi kết nối</li>
-                    <li>🔒 Mật khẩu được băm (hash) trước khi lưu vào database</li>
-                    <li>🔒 Hệ thống tường lửa và giám sát xâm nhập</li>
-                    <li>🔒 Chỉ nhân viên có thẩm quyền mới được truy cập dữ liệu</li>
+                    <li> Mã hóa SSL (HTTPS) cho mọi kết nối</li>
+                    <li> Mật khẩu được băm (hash) trước khi lưu vào database</li>
+                    <li> Hệ thống tường lửa và giám sát xâm nhập</li>
+                    <li> Chỉ nhân viên có thẩm quyền mới được truy cập dữ liệu</li>
                 </ul>
                 <p>Dù vậy, không có phương thức truyền tải nào qua internet là an toàn tuyệt đối. Bạn nên bảo vệ mật khẩu và đăng xuất sau khi sử dụng thiết bị chung.</p>
             </div>
@@ -120,10 +120,10 @@
             <div class="privacy-card-body">
                 <p>Bạn có quyền:</p>
                 <ul>
-                    <li>🔹 <strong>Truy cập</strong> – xem thông tin cá nhân đang lưu trữ</li>
-                    <li>🔹 <strong>Sửa đổi</strong> – cập nhật thông tin không chính xác</li>
-                    <li>🔹 <strong>Xóa tài khoản</strong> – yêu cầu xóa dữ liệu (trừ đơn hàng đã hoàn thành cần lưu trữ theo quy định)</li>
-                    <li>🔹 <strong>Hủy đăng ký nhận tin</strong> – bất kỳ lúc nào qua link trong email</li>
+                    <li> <strong>Truy cập</strong> – xem thông tin cá nhân đang lưu trữ</li>
+                    <li> <strong>Sửa đổi</strong> – cập nhật thông tin không chính xác</li>
+                    <li> <strong>Xóa tài khoản</strong> – yêu cầu xóa dữ liệu (trừ đơn hàng đã hoàn thành cần lưu trữ theo quy định)</li>
+                    <li> <strong>Hủy đăng ký nhận tin</strong> – bất kỳ lúc nào qua link trong email</li>
                 </ul>
                 <p>Để thực hiện các quyền này, vui lòng liên hệ <strong>privacy@shoe4u.vn</strong>.</p>
             </div>
@@ -155,3 +155,5 @@
         </div>
     </div>
 </div>
+
+
