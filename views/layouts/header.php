@@ -35,8 +35,9 @@ if (session_status() === PHP_SESSION_NONE) session_start();
       </div>
       <div class="topbar-right">
         <a href="index.php?controller=order&action=history"><i class="fas fa-box-open"></i> Theo dõi đơn hàng</a>
+        <a href="index.php?controller=post&action=index"><i class="fas fa-newspaper"></i> Bài viết</a>
         <a href="index.php?controller=about"><i class="fas fa-store"></i> Về chúng tôi</a>
-      </div>
+    </div>
     </div>
   </div>
 </div>

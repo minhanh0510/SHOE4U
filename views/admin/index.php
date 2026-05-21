@@ -70,10 +70,7 @@ include 'layouts/header.php';
 include 'layouts/sidebar.php';
 ?>
 
-<div class="content-header">
-    <h1>Dashboard</h1>
-    <p>Xin chào, <?= $admin_name ?>! Chào mừng trở lại.</p>
-</div>
+
 
 
 <!-- STATS CARDS -->
