@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Bỏ qua thư mục views/admin - KHÔNG rewrite
+RewriteRule ^views/admin/ - [L]
+
+# Loại bỏ index.php khỏi URL
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
